@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" modified="2023-12-01T18:53:07.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qJl5frevcpyeWPxUHUMm" version="22.1.5" type="device">
+  <diagram name="Page-1" id="P5TANpdgjcrlWcNh6cr1">
+    <mxGraphModel dx="2271" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-4" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-10" value="" style="endArrow=classic;html=1;exitX=0.7;exitY=0.05;exitDx=0;exitDy=0;entryX=0.325;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;curved=1;" parent="1" source="rhCW5o9TBGKpallqe4Qa-1" target="rhCW5o9TBGKpallqe4Qa-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-11" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.625;exitDx=0;exitDy=0;entryX=0.975;entryY=0.4;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;curved=1;" parent="1" source="rhCW5o9TBGKpallqe4Qa-2" target="rhCW5o9TBGKpallqe4Qa-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-12" value="" style="endArrow=classic;html=1;entryX=0.275;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.733;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" parent="1" source="rhCW5o9TBGKpallqe4Qa-3" target="rhCW5o9TBGKpallqe4Qa-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-13" value="" style="endArrow=classic;html=1;exitX=0.008;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="rhCW5o9TBGKpallqe4Qa-3" target="rhCW5o9TBGKpallqe4Qa-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-18" value="" style="endArrow=classic;html=1;exitX=0.308;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;entryX=0.05;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rhCW5o9TBGKpallqe4Qa-3" target="rhCW5o9TBGKpallqe4Qa-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="420" as="sourcePoint" />
+            <mxPoint x="130" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-20" value="" style="endArrow=classic;html=1;entryX=0.617;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rhCW5o9TBGKpallqe4Qa-2" target="rhCW5o9TBGKpallqe4Qa-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="150" as="sourcePoint" />
+            <mxPoint x="630" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-22" value="Wait for call 0 from Above" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="rhCW5o9TBGKpallqe4Qa-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="120" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-24" value="Wait for ACK 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-25" value="Wait for ACK 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhCW5o9TBGKpallqe4Qa-26" value="Wait for call 1 from Above" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-1" value="rdt_rcv(self, rcv_pkt) &amp;amp;&amp;amp; is_corrupted(packet)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="185" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-3" value="rdt_rcv(self, rcv_pkt) &amp;amp;&amp;amp; is_corrupted(packet)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="30" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="100" as="sourcePoint" />
+            <mxPoint x="915" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="915" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-5" value="rdt_send(self, process_buffer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="227.04" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224" y="470" as="sourcePoint" />
+            <mxPoint x="604" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="529" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-7" value="rdt_rcv(self, rcv_pkt) &amp;amp;&amp;amp; is_corrupted(packet)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-117.04" y="340" width="187.04" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="410" as="sourcePoint" />
+            <mxPoint x="130" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="55" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-12" value="reply = self.net_srv.udt_send(pkt)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.04" y="110" width="222.96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-13" value="pkt = RDTSender.make_pkt(self.sequence, data, checksum)&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;reply = self.net_srv.udt_send(pkt)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-14" value="reply = self.net_srv.udt_send(pkt)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-117.04" y="420" width="197.04" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-15" value="rdt_rcv(self, rcv_pkt) &amp;amp;&amp;amp; is_corrupted(packet)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="245" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-18" value="rdt_send(self, process_buffer)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-80" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-19" value="pkt = RDTSender.make_pkt(self.sequence, data, checksum)&amp;nbsp;&lt;br&gt;reply = self.net_srv.udt_send(pkt)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOKIo2WS86lvq1djM_wl-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" as="sourcePoint" />
+            <mxPoint x="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
